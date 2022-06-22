@@ -15,3 +15,10 @@ Buat file baru dengan nama *form.php*<br>
 ![p](gambar/foto4.png)<br>
 Dan ini hasilnya ketika lihat dibrowser, masih berupa from kosong<br>
 ![p](gambar/foto5.png)<br>
+
+Lalu buat file baru dengan nama *form_input.php*<br>
+![p](gambar/foto6.png)<br>
+Dan ini hasilnya ketika kalian lihat dibrowser<br>
+![p](gambar/foto7.png)<br>
+
+
